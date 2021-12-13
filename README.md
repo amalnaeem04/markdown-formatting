@@ -1,21 +1,3 @@
-# Backend Interview Exercise
-
-## Process
-
-1. This repo is your own, you can use it to work and commit your solution here.
-2. Solve the exercise within a time frame of 1 week. It normally takes around 3-4 hours to complete.
-3. Once you are ready with your solution submit a Pull Request and we will review your task and leave comments.
-4. We review your solution within 2 days, provide feedback for you and schedule a call to discuss as a next step.
-5. Demo your solution to future colleagues (product managers and engineers) on the call.
-
-## What we review
-
-- **Solution:** structured problem solving and working solution :)
-- **Architecture:** how clean is the separation of concerns, folder structuring and design patterns? Does the code specifically follow OOP paradigm, FP paradigm or an appropriate mixture of both? Is the code imperative or declarative?
-- **Code Quality:** are namings across the code appropriate? Is the code reusable and readable? Are there any ESLint issues?
-- **Testing:** how through are the tests?
-- **Documentation:** are technical choices and trade-offs explained? What are the limitations of the system?
-
 ## The epic
 
 Design a service that given a string with line breaks ("\n") and formatting parameters, returns a string formatted with basic markdown syntax.
